@@ -1,0 +1,28 @@
+1.install latest version of ruby Ex:ruby 1.9.2 and set the path variable for same
+
+check : type ruby -v on command probmt and make sure ruby version what we have installed ,
+
+for MAC by default ruby is installed no need to install ruby.
+
+2.install following gems
+
+  i.gem install rubygems
+
+  ii.gem install watir
+
+  iii.gem install watir-webdriver
+
+  iv gem install rspec
+
+3.Steps to run a Scripts 
+
+Write the Watir+Ruby test scripts and save file as .rb extension
+
+4.Run command 
+
+ruby testscripts.rb
+
+Ex:
+D:>watir\ls
+testscripts.rb
+D:>watir>ruby testscripts.rb

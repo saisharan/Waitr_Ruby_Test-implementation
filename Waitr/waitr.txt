@@ -1,0 +1,5 @@
+http://www.thoughtworks.com/insights/articles/automated-testing-using-ruby-and-watir
+http://watirmelon.com/2010/12/14/watir-webdriver-a-detailed-introduction/
+http://watir.com/examples/
+http://watir.com/frameworks/
+https://testwisely.com/en/testwise/docs/tutorials/watir
